@@ -6,6 +6,8 @@
 
 
 --Part 2
+--SELECT Name From employers
+--Where Location = "St. Louis City";
 
 --Part 3
 
