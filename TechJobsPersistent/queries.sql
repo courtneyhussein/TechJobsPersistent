@@ -10,4 +10,7 @@
 --Where Location = "St. Louis City";
 
 --Part 3
+--SELECT DISTINCT Name, Description FROM Skills
+--INNER JOIN jobskills ON Skills.Id = jobskills.SkillId
+--ORDER BY Name;
 
